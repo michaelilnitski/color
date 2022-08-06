@@ -1,0 +1,16 @@
+.red{
+    background: red;
+}
+
+.blue{
+    background-color: blue;
+}
+.card-title{
+    color: white;
+}
+.card-text{
+    color: white;
+}
+.btn{
+    border-color: black;
+}
